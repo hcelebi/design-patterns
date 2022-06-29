@@ -1,1 +1,28 @@
-# design-patterns
+Design Patterns
+-----
+
+- Creation
+  - Factory : Car factory Mercedes/ Volvo
+  - Abstract Factory: Abstract Car Models
+  - Builder: Car Builder
+  - Singleton Car Singleton object with thread safe
+  - Prototype: 
+- Structural
+  - Adapter: MultiMediaPlayer and Music Source
+  - Bridge: 
+  - Composite: 
+  - Decorator: Car Decorator with color decorator
+  - Facade
+  - Flyweight: Screw and tire parts with car
+  - Proxy
+- Behavioral
+  - Chain of Responsibility
+  - Command
+  - Iterator
+  - Mediator
+  - Memento
+  - Observer
+  - State
+  - Strategy
+  - Template Method
+  - Visitor
